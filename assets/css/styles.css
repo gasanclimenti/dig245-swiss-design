@@ -1,2 +1,15 @@
 
 /* css */
+body {
+  font-family: "Heebo";
+  background-color: #02AEDF;
+}
+
+p {
+  font-size: .8rem;
+  /* padding!! slide 51/52 */
+}
+
+.talkingheads {
+  font-size: 5rem;
+}
